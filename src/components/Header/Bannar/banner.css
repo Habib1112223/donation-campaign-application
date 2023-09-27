@@ -1,0 +1,20 @@
+.banner{
+    background-image: url(../../../../Resources/Rectangle\ 4281.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+    position: relative;
+}
+
+.banner::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.9;
+}
