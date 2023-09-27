@@ -8,8 +8,8 @@
     "card_bg_color": "#0052FF",
     "text_color": "#0052FF",
     "button_bg_color": "#0052FF",
-    "description": "Description for Product 1",
-    "price": 19.99
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$290"
   },
   {
     "id": "2",
@@ -20,8 +20,8 @@
     "card_bg_color": "#FF444A",
     "text_color": "#FF444A",
     "button_bg_color": "#FF444A",
-    "description": "Description for Product 2",
-    "price": 24.99
+    "description": "We stand behind the belief that students will perform better if classrooms are led by enthusiastic, inspired and well-trained teachers. To ensure students are receiving a high-quality education, we provide public primary school teachers with training and innovative resources, enhancing the delivery of national curriculum and empowering them to lead dynamic and effective lessons.",
+    "price":" $280"
   },
   {
     "id": "3",
@@ -32,8 +32,8 @@
     "card_bg_color": "#79C23F",
     "text_color": "#79C23F",
     "button_bg_color": "#79C23F",
-    "description": "Description for Product 3",
-    "price": 29.99
+    "description": "Whether it’s spring cleaning or tackling a New Year’s resolution, many people are purging their closets at least once a year — if not more — and flooding their local charities with heaps of donations.Donating has long been a popular, convenient and largely guilt-free way to get rid of clothes you don’t wear anymore. But how much of your donated clothing finds a new home or helps someone in need? Far less than you probably might think, experts say.",
+    "price": "$305"
   },
   {
     "id": "4",
@@ -44,103 +44,103 @@
     "card_bg_color": "#F87147",
     "text_color": "#F87147",
     "button_bg_color": "#F87147",
-    "description": "Description for Product 4",
-    "price": 14.99
+    "description": "When was the last time you went to bed hungry? Maybe you voluntarily fasted for 24 hours or had a busy day with little time to eat. But going to bed hungry because there’s no food in the house is a whole different, scary experience. One that too many of our neighbors in North Georgia experience regularly.But the reality is, we can all do something to help those in need. By giving our time, resources, and attention to hunger relief efforts, we can work towards a future where no one goes hungry. In this blog, we’ll explore the challenges of food insecurity in North Georgia and highlight ways we can all contribute to feeding hungry families.",
+    "price": "$150"
   },
   {
     "id": "5",
     "title": "Better Food for Everyone",
     "image": "https://i.ibb.co/x55Yq9R/Food.png",
     "category": "Food",
-    "category_bg_color": "#FF444A",
-    "card_bg_color": "#FF444A",
-    "text_color": "#FF444A",
-    "button_bg_color": "#FF444A",
-    "description": "Description for Product 4",
-    "price": 14.99
+    "category_bg_color": "#F87147",
+    "card_bg_color": "#F87147",
+    "text_color": "#F87147",
+    "button_bg_color": "#F87147",
+    "description": "When was the last time you went to bed hungry? Maybe you voluntarily fasted for 24 hours or had a busy day with little time to eat. But going to bed hungry because there’s no food in the house is a whole different, scary experience. One that too many of our neighbors in North Georgia experience regularly.But the reality is, we can all do something to help those in need. By giving our time, resources, and attention to hunger relief efforts, we can work towards a future where no one goes hungry. In this blog, we’ll explore the challenges of food insecurity in North Georgia and highlight ways we can all contribute to feeding hungry families.",
+    "price":" $450"
   },
   {
     "id": "6",
     "title": "Used Clothing Drive",
-    "image": "https://i.ibb.co/XDbZmWh/Health.png",
+    "image": "https://i.ibb.co/w03fvxx/Clothing.png",
     "category": "Clothing",
     "category_bg_color": "#79C23F",
     "card_bg_color": "#79C23F",
     "text_color": "#79C23F",
     "button_bg_color": "#79C23F",
-    "description": "Description for Product 3",
-    "price": 29.99
+    "description": "Whether it’s spring cleaning or tackling a New Year’s resolution, many people are purging their closets at least once a year — if not more — and flooding their local charities with heaps of donations.Donating has long been a popular, convenient and largely guilt-free way to get rid of clothes you don’t wear anymore. But how much of your donated clothing finds a new home or helps someone in need? Far less than you probably might think, experts say.",
+    "price": " $450"
   },
   {
     "id": "7",
-    "title": "Product 7",
-    "image": "https://i.ibb.co/XDbZmWh/Health.png",
-    "category": "Category 1",
-    "category_bg_color": "#0052FF",
-    "card_bg_color": "#0052FF",
-    "text_color": "#0052FF",
-    "button_bg_color": "#0052FF",
-    "description": "Description for Product 7",
-    "price": 16.99
+    "title": "Good education",
+    "image": "https://i.ibb.co/DfBR4fL/Education.png",
+    "category": "Education",
+    "category_bg_color": "#FF444A",
+    "card_bg_color": "#FF444A",
+    "text_color": "#FF444A",
+    "button_bg_color": "#FF444A",
+    "description": "We stand behind the belief that students will perform better if classrooms are led by enthusiastic, inspired and well-trained teachers. To ensure students are receiving a high-quality education, we provide public primary school teachers with training and innovative resources, enhancing the delivery of national curriculum and empowering them to lead dynamic and effective lessons.",
+    "price": " $850"
   },
   {
     "id": "8",
-    "title": "Product 8",
+    "title": "Clean water for children",
     "image": "https://i.ibb.co/XDbZmWh/Health.png",
-    "category": "Category 2",
-    "category_bg_color": "#FF444A",
-    "card_bg_color": "#FF444A",
-    "text_color": "#FF444A",
-    "button_bg_color": "#FF444A",
-    "description": "Description for Product 8",
-    "price": 39.99
-  },
-  {
-    "id": "9",
-    "title": "Product 9",
-    "image": "https://i.ibb.co/XDbZmWh/Health.png",
-    "category": "Category 3",
-    "category_bg_color": "#F87147",
-    "card_bg_color": "#F87147",
-    "text_color": "#F87147",
-    "button_bg_color": "#F87147",
-    "description": "Description for Product 9",
-    "price": 27.99
-  },
-  {
-    "id": "10",
-    "title": "Product 10",
-    "image": "https://i.ibb.co/XDbZmWh/Health.png",
-    "category": "Category 1",
+    "category": "Health",
     "category_bg_color": "#0052FF",
     "card_bg_color": "#0052FF",
     "text_color": "#0052FF",
     "button_bg_color": "#0052FF",
-    "description": "Description for Product 10",
-    "price": 21.99
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": " $650"
   },
   {
-    "id": "11",
-    "title": "Product 11",
+    "id": "9",
+    "title": "Clean water for children",
     "image": "https://i.ibb.co/XDbZmWh/Health.png",
-    "category": "Category 2",
+    "category": "Health",
+    "category_bg_color": "#0052FF",
+    "card_bg_color": "#0052FF",
+    "text_color": "#0052FF",
+    "button_bg_color": "#0052FF",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price":" $420"
+  },
+  {
+    "id": "10",
+    "title": "Good education",
+    "image": "https://i.ibb.co/DfBR4fL/Education.png",
+    "category": "Education",
     "category_bg_color": "#FF444A",
     "card_bg_color": "#FF444A",
     "text_color": "#FF444A",
     "button_bg_color": "#FF444A",
-    "description": "Description for Product 11",
-    "price": 18.99
+    "description": "We stand behind the belief that students will perform better if classrooms are led by enthusiastic, inspired and well-trained teachers. To ensure students are receiving a high-quality education, we provide public primary school teachers with training and innovative resources, enhancing the delivery of national curriculum and empowering them to lead dynamic and effective lessons.",
+    "price":" $460"
   },
   {
-    "id": "12",
-    "title": "Product 12",
-    "image": "https://i.ibb.co/XDbZmWh/Health.png",
-    "category": "Category 3",
+    "id": "11",
+    "title": "Used Clothing Drive",
+    "image": "https://i.ibb.co/w03fvxx/Clothing.png",
+    "category": "Clothing",
     "category_bg_color": "#79C23F",
     "card_bg_color": "#79C23F",
     "text_color": "#79C23F",
     "button_bg_color": "#79C23F",
-    "description": "Description for Product 12",
-    "price": 31.99
+    "description": "Whether it’s spring cleaning or tackling a New Year’s resolution, many people are purging their closets at least once a year — if not more — and flooding their local charities with heaps of donations.Donating has long been a popular, convenient and largely guilt-free way to get rid of clothes you don’t wear anymore. But how much of your donated clothing finds a new home or helps someone in need? Far less than you probably might think, experts say.",
+    "price": " $250"
+  },
+  {
+    "id": "12",
+    "title": "Better Food for Everyone",
+    "image": "https://i.ibb.co/x55Yq9R/Food.png",
+    "category": "Food",
+    "category_bg_color": "#F87147",
+    "card_bg_color": "#F87147",
+    "text_color": "#F87147",
+    "button_bg_color": "#F87147",
+    "description": "When was the last time you went to bed hungry? Maybe you voluntarily fasted for 24 hours or had a busy day with little time to eat. But going to bed hungry because there’s no food in the house is a whole different, scary experience. One that too many of our neighbors in North Georgia experience regularly.But the reality is, we can all do something to help those in need. By giving our time, resources, and attention to hunger relief efforts, we can work towards a future where no one goes hungry. In this blog, we’ll explore the challenges of food insecurity in North Georgia and highlight ways we can all contribute to feeding hungry families.",
+    "price":" $150"
   }
 ]
