@@ -2,10 +2,6 @@
 import { useEffect, useState } from "react";
 import FavoriteDonationCard from "../../components/Cards/FavouriteDonationCard";
 
-
-
-
-
 const Donation = () => {
       const [favoriteDonations, setFavoriteDonations] = useState([]);
       const initialItemsToShow = 4;

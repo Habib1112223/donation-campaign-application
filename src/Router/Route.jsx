@@ -6,7 +6,6 @@ import Statistics from "../Pages/Statistics/Statistics";
 import DonationDetails from "../Pages/DonationDetails/DonationDetails";
 import ErrorPage from "../Pages/404/404";
 
-
 const myCreateRoute = createBrowserRouter([
       {
             path:'/',
