@@ -17,7 +17,7 @@ const Bannar = ({setSearchItem}) => {
                 <h1 className="text-[#0B0B0B] lg:text-5xl text-3xl text-center font-bold">I Grow By Helping People In Need</h1>
                 <div className="mt-[40px]">
                   <form action="" onSubmit={handleSubmit}  className="pl-4 border-[#DEDEDE] border-2 rounded-lg bg-white">
-                        <input className='lg:w-[360px] outline-none' name="category" type="text" />
+                        <input className='lg:w-[360px] outline-none' name="category" type="text" placeholder='Search here' />
                         <button className='bg-[#FF444A] text-white py-4 px-7 rounded-r-lg text-base font-semibold' type="submit">Search</button>
                   </form>
                 </div>

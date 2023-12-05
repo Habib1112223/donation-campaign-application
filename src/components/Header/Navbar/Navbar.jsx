@@ -5,13 +5,13 @@ import { useState } from "react";
 const Navbar = () => {
       const [isOpen, setIsOpen] = useState(false);
 
-      const menuHandle = () => {
+      const menuHandle = () =>{
             setIsOpen(!isOpen)
             console.log(isOpen)
       }
       const handleLinkClick = () => {
             setIsOpen(false);
-      };
+          };
 
 
       return (
@@ -56,39 +56,39 @@ const Navbar = () => {
                               <button className="border-2 p-2" onClick={() => menuHandle()}>{isOpen ? 'X' : "+"}</button>
                               {
                                     isOpen && <div className="w-full bg-white lg:hidden block absolute top-30 right-0 z-50">
-                                          <ul className="p-10">
-                                                <li>
-                                                      <NavLink onClick={handleLinkClick}
-                                                            to="/"
-                                                            className={({ isActive, isPending }) =>
-                                                                  isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
-                                                            }
-                                                      >
-                                                            Home
-                                                      </NavLink>
-                                                </li>
-                                                <li>
-                                                      <NavLink onClick={handleLinkClick}
-                                                            to="/donation"
-                                                            className={({ isActive, isPending }) =>
-                                                                  isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
-                                                            }
-                                                      >
-                                                            Donation
-                                                      </NavLink>
-                                                </li>
-                                                <li>
-                                                      <NavLink onClick={handleLinkClick}
-                                                            to="/statistics"
-                                                            className={({ isActive, isPending }) =>
-                                                                  isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
-                                                            }
-                                                      >
-                                                            Statistics
-                                                      </NavLink>
-                                                </li>
-                                          </ul>
-                                    </div>
+                                    <ul className="p-10">
+                                          <li>
+                                                <NavLink onClick={handleLinkClick}
+                                                      to="/"
+                                                      className={({ isActive, isPending }) =>
+                                                            isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
+                                                      }
+                                                >
+                                                      Home
+                                                </NavLink>
+                                          </li>
+                                          <li>
+                                                <NavLink onClick={handleLinkClick}
+                                                      to="/donation"
+                                                      className={({ isActive, isPending }) =>
+                                                            isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
+                                                      }
+                                                >
+                                                      Donation
+                                                </NavLink>
+                                          </li>
+                                          <li>
+                                                <NavLink onClick={handleLinkClick}
+                                                      to="/statistics"
+                                                      className={({ isActive, isPending }) =>
+                                                            isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
+                                                      }
+                                                >
+                                                      Statistics
+                                                </NavLink>
+                                          </li>
+                                    </ul>
+                              </div>
                               }
                         </div>
                   </nav>
